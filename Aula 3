@@ -1,0 +1,77 @@
+# print("alo mundo")  - Exercício 1
+
+#NUM = input("Informe um número: ")
+#print ("\nO número informado foi: ", NUM) - Exercício 2
+
+#NUM = int(input("Informe o primeiro número: "))
+#NUM2 = int(input("Informe o segundo número: "))
+#SOMA = (NUM + NUM2)
+
+#print ("\nA soma dos números informados é: ", SOMA) - Exercício 3
+
+#nota = int(input("Informe a primeira nota: "))
+#nota1 = int(input("Informe a segunda nota: "))
+#nota2 = int(input("Informe a terceira nota: "))
+#nota3 = int(input("Informe a quarta nota: "))
+
+#SOMA = (nota + nota1 + nota2 + nota3)
+#MEDIA = (SOMA / 4)
+
+#print ("\nA soma dos números informados é: ", MEDIA) - Exercício 4
+
+#METRO = int(input("Informe quantos metros você quer converter: "))
+#CENT = (METRO * 100)
+
+#print ("\nCom",METRO,"metros, você tem", CENT,"centímetros" ) - Exercício 5
+
+#RAIO = int(input("Informe o raio do círculo: "))
+#AREA = (RAIO * RAIO)
+#AREA1 = (3.14 * AREA)
+
+#print ("\nO raio do seu círculo é: ", AREA1) - Exercício 6
+
+#LADO = int(input("Informe quanto mede o lado do seu quadrado: "))
+#AREA = (LADO * LADO)
+#AREA2 = (AREA *2)
+
+#print ("\nO dobro da área do seu quadrado é de: ", AREA2) - Exercício 7
+
+#VALOR = int(input("Digite o valor do seu salário por hora: "))
+#HORAS = int(input("Digite o quantas horas você trabalhou no mês: "))
+#SALARIO = (VALOR * HORAS)
+
+#print ("\nO seu salário neste mês será de: R$", SALARIO) - Exercício 8
+
+#FARE = int(input("Digite o valor da temperatura que você quer converter: "))
+#CELC = (5 * ((FARE-32) / 9))
+
+#print ("\nA temperatura que você indicou em °C é", CELC) - Exercício 9
+
+#CELC = int(input("Digite o valor da temperatura que você quer converter: "))
+#FARE = (CELC / 5)*9+32
+
+#print ("\nA temperatura que você indicou em °F é", FARE) - Exercício 10
+
+#NUM = int(input("Digite o primeiro numero inteiro: "))
+#NUM1 = int(input("Digite o segundo numero inteiro: "))
+#NUM3 = float(input("Digite o numero real: "))
+
+#A = (NUM *2)*(NUM1/2)
+#B = (NUM*3)+NUM3
+#C = (NUM3*NUM3)*NUM3
+
+#print ("\nO produto do dobro do primeiro com metade do segundo é", A)
+#print ("\nA soma do triplo do primeiro com o terceiro é", B)
+#print ("\nO terceiro elevado ao cubo é", C) - Exercício 11
+
+#ALTURA = float(input("Digite a altura da pessoa: "))
+#PESO = (72.7*ALTURA)-58
+
+#print ("\nO seu peso ideal é de", PESO,"kg") - Exercício 12
+
+#ALTURA = float(input("Digite a altura da pessoa: "))
+#HOMEM = (72.7*ALTURA)-58
+#MULHER = (62.1*ALTURA)-44.7
+
+#print ("\nO peso ideal de um homem nessa altura é de", HOMEM,"Kg")
+#print("E de uma mulher é de", MULHER, "Kg") - Exercício 13
